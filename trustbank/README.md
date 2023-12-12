@@ -4,7 +4,9 @@ the trustbank is an opensource decentralized finance project that allows users t
 
 ## ROADMAP
 the trustbank is undergoing development stages and currently hosted on linea goerli testnet
+
 this repository contains code that represents the trustbank contract and website
+
 user interface is rudimentary for this website
 
 ## FEATURES
